@@ -12,6 +12,7 @@
 data/data-base
 \coverage
 \.nyc_output
+basico/pastaB
 
 # Modules
 node_modules
